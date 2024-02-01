@@ -10,3 +10,4 @@ float32 rpm
 float32 airspeed
 float32 advance_ratio
 float32 motor_index
+float32 power
